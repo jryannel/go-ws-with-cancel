@@ -4,10 +4,10 @@ A websocket client/server model with cancel support.
 
 This is my learning attempt to create a websocket client/server model with cancel support. I have used the following resources to learn and create this project:
 
-* %[https://github.com/gorilla/websocket]
-* %[https://pkg.go.dev/context]
-* %[https://www.youtube.com/watch?v=LSzR0VEraWw]
-* %[https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197]
+* https://github.com/gorilla/websocket
+* https://pkg.go.dev/context
+* https://www.youtube.com/watch?v=LSzR0VEraWw
+* https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197
 
 ## Concept
 
